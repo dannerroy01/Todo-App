@@ -1,4 +1,4 @@
-# Online Learning Portal
+# Online TODO App
 
 A modern web-based learning platform built with React.js.
 
@@ -31,7 +31,7 @@ Instructions for new contributors:
 -->
 
 ### Core Team
-- Adeyefa Taiwo Timileyin - Project Lead
+- Jamal Balogun Olawale - Project Lead
 
 ### Contributors
 - jamalbalo22@gmail.com
@@ -41,6 +41,8 @@ Computer with information science
 - Computer Science Education
 - Azeez Rahmon Gbolahan
 - Computer Science Education
+- Jamal Balogun Olawale LCU/UG/21/19560
+Computer Science
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
