@@ -35,7 +35,7 @@ Instructions for new contributors:
 
 ### Contributors
 - jamalbalo22@gmail.com
-Akinyemi Enoch Boluwatife
+- Akinyemi Enoch Boluwatife
 Computer with information science
 - Umar Aisha Bintu
 - Computer Science Education
