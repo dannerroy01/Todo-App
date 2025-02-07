@@ -35,6 +35,8 @@ Instructions for new contributors:
 
 ### Contributors
 - jamalbalo22@gmail.com
+Akinyemi Enoch Boluwatife
+Computer with information science
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
