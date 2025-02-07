@@ -20,7 +20,10 @@ An interactive learning platform that provides:
 - Node.js
 
 ## 👥 Contributors
-<!-- 
+<!-- Olayemi Oluwatoberu Joel
+holuwatoberu55@gmail.com
+LCU/UG/22/21469
+Computer Science
 Instructions for new contributors:
 1. Add your name as a list item below
 2. Follow the format: [Your Name](Your GitHub Profile Link) - Your Role
