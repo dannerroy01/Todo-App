@@ -38,7 +38,9 @@ Instructions for new contributors:
 Akinyemi Enoch Boluwatife
 Computer with information science
 - Umar Aisha Bintu
-- Computer Science Education 
+- Computer Science Education
+- Azeez Rahmon Gbolahan
+- Computer Science Education
 <!-- New contributors: Add your name above this line -->
 
 ## 📝 How to Contribute
