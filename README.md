@@ -36,11 +36,13 @@ Instructions for new contributors:
 ### Contributors
 - jamalbalo22@gmail.com
 - Akinyemi Enoch Boluwatife
-Computer with information science
+-Computer with information science
 - Umar Aisha Bintu
 - Computer Science Education
 - Azeez Rahmon Gbolahan
 - Computer Science Education
+- Ekpenuma Daniel Lcu/ug/22/22564
+- Computer science
 - Jamal Balogun Olawale LCU/UG/21/19560
 Computer Science
 <!-- New contributors: Add your name above this line -->
