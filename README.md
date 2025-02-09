@@ -39,6 +39,8 @@ Instructions for new contributors:
 Computer with information science
 - Umar Aisha Bintu
 - Computer Science Education
+- Ekpenuma Daniel C
+- Computer science
 - Azeez Rahmon Gbolahan
 - Computer Science Education
 - Jamal Balogun Olawale LCU/UG/21/19560
